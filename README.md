@@ -1,4 +1,4 @@
-# codemasters-cpp
+
 # Codemasters
 
 A text-based, turn-based strategy game inspired by chess, written in C++ as an advanced programming course project. Two players each command a team of four pieces on an 8x8 board, and the goal is to destroy the opponent's Master piece. If nobody manages that within 30 turns, the game ends in a draw.
